@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Yo, moi c’est Rayto
 
-<!--
-**Raytoou/Raytoou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cybersecurity & CTF player**  
+🔒 Passionné par le web & web3 ainsi que le reverse
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Stack & outils
+`Python` · `Bash` · `JS` · `SQL`
+`Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `IDA`  
+`Wsl` · `Docker`
+
+---
+
+### 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raytoou&theme=github_dark" />
+</p>
+
+---
+
+### 🔗 Liens
+<p align="center">
+  <a href="https://www.root-me.org/Rayto?lang=fr">
+    <img alt="Root-Me" src="https://img.shields.io/badge/Rayto-111111?style=for-the-badge&logo=root-me&logoColor=white&labelColor=000000">
+  </a>
+  <a href="https://discord.gg/6NC9Fh6Beh">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=000000">
+  </a>
+</p>
+
+---
+
+
+> 🧠 “📈📈📈”
+
+---
