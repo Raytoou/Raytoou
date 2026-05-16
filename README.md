@@ -13,12 +13,6 @@
       <a href="https://www.root-me.org/Rayto">
         <img src="https://img.shields.io/badge/Root--Me-Rayto-red?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Root-Me"/>
       </a>
-      <a href="https://www.root-me.org/Rayto">
-        <img src="https://img.shields.io/badge/Web%20Exploitation-🕸️-orange?style=for-the-badge" alt="Web Exploitation"/>
-      </a>
-      <a href="https://www.root-me.org/Rayto">
-        <img src="https://img.shields.io/badge/Reverse%20Engineering-🔍-blue?style=for-the-badge" alt="Reverse Engineering"/>
-      </a>
     </td>
   </tr>
 </table>
