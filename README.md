@@ -13,12 +13,10 @@
         I love nerd stuff like <strong>web exploitation</strong> and <strong>reverse engineering</strong>.
       </p>
       <a href="https://www.root-me.org/Rayto" target="_blank" rel="noopener">
-        <img 
-          src="https://root-me-diff.vercel.app/rm-gh?gstats=show&amp;style=light&amp;nickname=Rayto" 
-          width="350" 
-          alt="Root-Me Stats"
-        />
-      </a>
+
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Rayto&gstats=show&style=light)
+
+</a>
     </td>
   </tr>
 </table>
