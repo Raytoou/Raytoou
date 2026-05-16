@@ -14,7 +14,7 @@
       </p>
       <a href="https://www.root-me.org/Rayto" target="_blank" rel="noopener">
         <img 
-          src="https://root-me-diff.vercel.app/rm-gh?gstats=show&style=light&nickname=Rayto" 
+          src="https://root-me-diff.vercel.app/rm-gh?gstats=show&amp;style=light&amp;nickname=Rayto" 
           width="350" 
           alt="Root-Me Stats"
         />
